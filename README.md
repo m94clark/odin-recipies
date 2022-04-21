@@ -1,1 +1,2 @@
 # odin-recipies
+This project is aimed for me to use the html knowledge that I have learned to make a website which may not look pretty as not css has been used for the purpose of this practice exercise. 
